@@ -1,2 +1,2 @@
-sqlite3 - table library
-PyQt5=5.15.1 - design core library
+sqlite3         - table library
+PyQt5=5.15.1    - design core library
